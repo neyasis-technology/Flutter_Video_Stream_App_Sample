@@ -1,0 +1,37 @@
+{
+  "name": "flutter_video_streaming_server",
+  "version": "1.0.0",
+  "description": "Flutter Video Streaming Server Side Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammedAlmaz/Flutter-Video-Streaming.git"
+  },
+  "keywords": [
+    "Flutter",
+    "SocketIO",
+    "Video",
+    "Streaming"
+  ],
+  "author": "Muhammed ALMAZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammedAlmaz/Flutter-Video-Streaming/issues"
+  },
+  "homepage": "https://github.com/MuhammedAlmaz/Flutter-Video-Streaming#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  }
+}

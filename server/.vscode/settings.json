@@ -1,0 +1,10 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.validate": ["javascript"],
+    "editor.fontSize": 12,
+    "workbench.colorTheme": "Default Light+"
+}

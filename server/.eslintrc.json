@@ -1,0 +1,35 @@
+{
+    "env": {
+        "node": true,
+        "commonjs": true
+    },
+    "extends": [
+        "airbnb"
+    ],
+    "rules": {
+        "no-return-assign":"off",
+        "no-param-reassign":"off",
+        "no-unreachable":"off",
+        "radix":"off",
+        "no-await-in-loop":"off",
+        "no-plusplus":"off",
+        "no-continue":"off",
+        "no-tabs":"off",
+        "no-restricted-syntax":"off",
+        "no-prototype-builtins":"off",
+        "no-useless-escape":"off",
+        "func-names":"off",
+        "import/newline-after-import":"off",
+        "import/order":"off",
+        "consistent-return":"off",
+        "func-style": [2, "declaration", { "allowArrowFunctions": true }],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "max-len": [2, 180, 2]
+    },
+    "parserOptions": {
+        "ecmaVersion": 2020
+    }
+}
